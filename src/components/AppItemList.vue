@@ -18,7 +18,7 @@
         </ul>
         <br/>
         <div class="input-group">
-          <input type="text" class="form-control" v-model="item" v-on:keyup.enter="addItem(item)" placeholder="Digite o itemo...">
+          <input type="text" class="form-control" v-model="item" v-on:keyup.enter="addItem(item)" placeholder="Digite o item...">
           <div class="input-group-append">
             <button class="btn btn-info" v-on:click="addItem(item)"><i class="fas fa-plus"></i></button>
           </div>
