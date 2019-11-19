@@ -1,4 +1,4 @@
-# fullstack_vue_graphql_node_1
+# NameGator
 
 ## Project setup
 ```
